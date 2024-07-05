@@ -30,7 +30,7 @@ const projectsData = [
     id: 3,
     title: "STUDENT STORE : React js",
     description:
-      "Project 3 - Develop an e-commerce platform focused on students, enabling them to sell services and products.  Used Tech: React Js, JavaScript , Node js and express js.",
+      "Project 3 - Develop an e-commerce platform focused on students, enabling them to sell services and products. Used Tech: React Js, JavaScript ,Node js and express js.",
     image: "/images/projects/studentstore.png",
     tag: ["All", "Web"],
     gitUrl: "",
@@ -63,8 +63,8 @@ const projectsData = [
       "Project 6 - Devloped a portfolio website using Next.Js frameworks to showcase my skills, projects, and achievements. implemented CI/CD pipeline to automate the devlopment process.",
     image: "/images/projects/portfolio.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "https://khursheedalam.vercel.app",
+    gitUrl: "https://github.com/Khursheedalam0906/MyPortfolio",
+    previewUrl: "https://khursheedalam.vercel.app/",
   },
 ];
 
