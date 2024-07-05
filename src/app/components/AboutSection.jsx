@@ -9,12 +9,12 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-4">
-        <li>React Js, Next Js, React Native, Redux</li>
-        <li>HTML5, CSS3, JavaScropt(ES6), TypeScript</li>
-        <li>Bootstrap, tailwind CSS, Figma, Canva</li>
-        <li>Firebase, Android Studio, Postman</li>
-        <li>Visual Studio, Git & Github, versal</li>
-        <li>Node JS, Express Js, Mongoose, MongoDB</li>
+        <li>React Js, Next Js, React Native, Redux Toolkit, Context Api</li>
+        <li>HTML5, CSS3, JavaScropt(ES6), TypeScript, Bootstrap</li>
+        <li>Tailwind CSS, MaterialUi, Figma, Canva, Git & Github</li>
+        <li>Visual Studio, Next Auth, versal, Postman, Thunder Client</li>
+        <li>Firebase, Android Studio, Nextjs Server Action, Cloudinary</li>
+        <li>Node JS, Express Js, Mongoose, MongoDB, Next Api, </li>
       </ul>
     ),
   },
@@ -23,7 +23,9 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-4">
-        <li>Computer Science Engineer (BE)</li>
+        <li>High School (10th) - 2013</li>
+        <li>Intermediate of Science (12th) - 2015</li>
+        <li>Computer Science Engineer (BE) - 2019</li>
         <li>Rajiv Gandhi Technical University</li>
       </ul>
     ),
@@ -58,7 +60,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base  text-justify">
             I am a full stack web developer with a passion for creating
-            interactive and responsive web applications. I have 4.6 year working
+            interactive and responsive web applications. I have 5 year working
             experience with React js, Next js, React Native, Redux, HTML, CSS,
             JavaScript(ES6), TypeScript, Bootstrap, tailwind CSS, Figma, Canva,
             Firebase, Android Studio, Postman, Visual Studio, Git & Github,
